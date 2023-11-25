@@ -1,0 +1,24 @@
+{
+  "name": "tarefa-3-ppi",
+  "version": "1.0.0",
+  "description": "Tarefa 3 de PPI",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppaulooXD/Tarefa-3-PPI.git"
+  },
+  "author": "Paulo Amorim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ppaulooXD/Tarefa-3-PPI/issues"
+  },
+  "homepage": "https://github.com/ppaulooXD/Tarefa-3-PPI#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
